@@ -2,38 +2,77 @@
 
 This repo is meant to help identify security products from screenshots
 
-
-### Endpoint Security / AV
-
-- McAfee Home - ![](/images/mcafee_home.png)
-- McAfee EPO - ![](/images/mcafee_enterprise.png)
-- Sophos - ![](/images/sophos.png)
-- Symantec Endpoint Protection - ![](/images/sep.png)
-- FSecure - ![](/images/fsecure.png)
-- ESET - ![](/images/eset.png)
-- Kaspersky - ![](/images/kaspersky.png)
-- Microsoft Windows Defender - ![](/images/win_defender.png)
-- Avast - ![](/images/avast.jpg)
-- Norton Security - ![](/images/norton.jpg)
+### Antivirus/End-Point Security
+| Icon                                                          | Product                               |
+| :---:                                                         | :---                                  |
+| ![](/images/blockblock-mac-malware-persistence-monitor.png)   | BlockBlock Mac                        |
+| ![](/images/cylance-protect.png)                              | Cylance Protect                       |
+| ![](/images/eset.png)                                         | ESET                                  |
+| ![](/images/fsecure.png)                                      | FSecure                               |
+| ![](/images/kaspersky.png)                                    | Kaspersky                             |
+| ![](/images/mcafee_home.png)                                  | McAfee Home                           |
+| ![](/images/mcafee_enterprise.png)                            | McAfee VirusScan                      |
+| ![](/images/win_defender.png)                                 | Microsoft Windows Defender            |
+| ![](/images/sophos.png)                                       | Sophos                                |
+| ![](/images/sep.png)                                          | Symantec Endpoint Protection          |
+| ![](/images/avast.jpg)                                        | Avast         			|
+| ![](/images/norton.jpg)                                       | Norton Security         		|
 
 ### VPN
-
-- Cisco AnyConnect VPN - ![](/images/Cisco_VPN.jpg)
-- Private Internet Access VPN disconnected - ![](/images/pia_disconnected.jpg)
-- Private Internet Access VPN connected - ![](/images/pia_connected.jpg)
-- hide.me VPN not logged in - ![](/images/hideme_not_logged_in.jpg)
-- hide.me VPN connected - ![](/images/hideme_connected.jpg)
-- tunnelbear VPN disconnected - ![](/images/tunnelbear_disconnected.jpg)
-- tunnelbear VPN connected - ![](/images/tunnelbear_connected.jpg)
-- privatetunnel VPN disconnected - ![](/images/privatetunnel_disconnected.jpg)
-- privatetunnel VPN connected - ![](/images/privatetunnel_connected.jpg)
+| Icon                                                          | Product                               |
+| :---:                                                         | :---                                  |
+| ![](/images/Cisco_VPN.jpg)                                    | Cisco AnyConnect VPN                  |
+| ![](/images/elastica-reach-agent.png)                         | Elastica Reach Agent                  |
+| ![](/images/pulse-vpn-disconnected.png)                       | Juniper Pulse Secure (Disconnected)   |
+| ![](/images/pulse-secure-vpn-mac.png)                         | Juniper Pulsee Mac (Connected)        |
+| ![](/images/vpn-palo-alto-globalprotect.png)                  | Palo Alto GlobalProtect               |
+| ![](/images/VPN-Private-Internet-Access-Connected.png)        | Private Internet Access               |
+| ![](/images/viscosity-vpn-connected.png)                      | Viscocity VPN (Connected)             |
+| ![](/images/viscosity-vpn-disconnected.png)                   | Viscocity VPN (Disconnected)          |
+| ![](/images/pia_disconnected.jpg)                   		| Private Internet Access (Disconnected)|
+| ![](/images/pia_connected.jpg)	                        | Private Internet Access (Connected)	|
+| ![](/images/hideme_not_logged_in.jpg)                   	| Hide.me (not logged in)		|
+| ![](/images/hideme_connected.jpg)		                | Hide.me (Connected)		        |
+| ![](/images/tunnelbear_disconnected.jpg)			| tunnelbear VPN (Disconnected)         |
+| ![](/images/tunnelbear_connected.jpg)				| tunnelbear VPN (Connected)		|
+| ![](/images/privatetunnel_disconnected.jpg)                   | privatetunnel VPN (Disconnected)	|
+| ![](/images/privatetunnel_connected.jpg)			| privatetunnel VPN (Connected)         |
 
 ### Backup or File Sync
+| Icon                                                          | Product                               |
+| :---:                                                         | :---                                  |
+| ![](/images/icloud.png)                                       | Apple iCloud                          |
+| ![](/images/Code42_CrashPlan_Backup.jpg)                      | Code42 CrashPlan                      |
+| ![](/images/dropbox.png)                                      | Dropbox                               |
+| ![](/images/duplicati.png)                                    | Duplicati                             |
+| ![](/images/google-backup-and-sync.png)                       | Google Backup and Sync                |
+| ![](/images/onedrive.png)                                     | Microsoft Onedrive Personal           |
+| ![](/images/onedrive-biz.png)                                 | Microsoft Onedrive Business           |
+| ![](/images/tresorit.png)                                     | Tresorit                              |
 
-- Code42 CrashPlan - ![](/images/Code42_CrashPlan_Backup.jpg)
+### Firewall/Monitoring
+| Icon                                                          | Product                               |
+| :---:                                                         | :---                                  |
+| ![](/images/Glasswire-with-alerts.png)                        | Glasswire (with notifications)        |
+| ![](/images/little-snitch-firewall.png)                       | Little Snitch Firewall                |
+| ![](/images/little-snitch-disabled.png)                       | Little Snitch (disabled)              |
+| ![](/images/lulu-firewall.png)                                | LuLu Firewall (Mac)                   |
+| ![](/images/micro-snitch-mic-webcam-monitor.png)              | Micro Snitch WebCam/Mic               |
+| ![](/images/oversight-mic-webcam-monitor.png)                 | OverSight WebCam/Mic                  |
+
+### Password Managers
+| Icon                                                          | Product                               |
+| :---:                                                         | :---                                  |
+| ![](/images/keepass.png)                                      | KeePass                               |
+| ![](/images/KeePassXC.png)                                    | KeePassXC                             |
+
+### Automation/Tools
+| Icon                                                          | Product                               |
+| :---:                                                         | :---                                  |
+| ![](/images/autohotkey.png)                                   | Autohotkey                            |
+| ![](/images/cisco-proximity-screen-sharing.png)               | Cisco Proximity Client                |
 
 ### File Encryption
-
-- Veracrypt - ![](/images/veracrypt.jpg)
-
-
+| Icon                                                          | Product                               |
+| :---:                                                         | :---                                  |
+| ![](/images/veracrypt.jpg)					| Veracrypt				|
